@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <section>
+      <title>The Snow</title>
+    </section>
+    <h1>The Project2 for Learning</h1>
+    <p>The First Paragraph</p>
+    <h2>There is dog near you. His name is <strong>Tom & Cherry</strong></h2>
+    <p>The new branch WMTAEM-2347 is created</p>
+  </body>
+</html>
